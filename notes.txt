@@ -1,0 +1,14 @@
+git version
+git config --global user.name "name of the user"
+git config --global user.email "email of the user"
+git config --global --list
+git clone "url of the repository"
+cd repository name
+git status
+making file in the repository
+echo "iamlearning" >> start.txt
+but it is not been identified to github yet so if we run " git status is will say untraceble so 
+run 
+git add start.txt this command will add it to working directory
+to commit the changes
+git push origin master
