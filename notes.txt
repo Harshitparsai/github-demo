@@ -12,3 +12,9 @@ run
 git add start.txt this command will add it to working directory
 to commit the changes
 git push origin master
+starting a new project
+making a new repository
+git init fresh-project // git will add new repository
+cd fresh-project
+now adding a new file in the project
+mate project.txt
